@@ -4,8 +4,8 @@
 It is an unofficial support page for the app called Folio. 
 <br>
 <br>
-<h3>Purpose - To user</h3>
-I have created this page, because there are no official support page for this app. They are responding well in Twitter and Facebook. But you really can't tract whether the requested issues / features has been implemented or not. I really like the initial version of this app, but I see more funtionality improvements. So I thought of creating a repository on their appname until they are ready to take over the resposibility. 
+<h3>To user</h3>
+I have created this page, because there are no official support page for this app. They are responding well in Twitter and Facebook. But you can't really tract whether the requested issues / features has been implemented or not. I really like the initial version of this app, but I see more funtionality improvements. So I thought of creating a repository on their appname until they are ready to take over the resposibility. This repository will be blank till the developers of this app wants to opensource the app. Until then it will be just a support page.
 
 I will post my issues and improvements here. I suggest to you also to do the same.
 <br>
